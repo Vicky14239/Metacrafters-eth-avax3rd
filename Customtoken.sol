@@ -36,7 +36,6 @@ contract CustomToken is ERC20, Pausable {
         _pause();
     }
 
-    // Function to unpause all token transfers
     function unpauseTransfers() public onlyAdmin {
         _unpause();
     }
