@@ -1,11 +1,11 @@
-# Metacrafters-eth-avax3rd
+# Metacrafters_eth+avax_3rd
 # Mytoken Smart Contract
 
 MyToken is a simple ERC20 token implemented in Solidity. It includes basic functionalities such as minting, burning, and transfer, with ownership control.
 
 ## Overview
 
-This smart contract, `MyToken`, is an ERC20 token named "ARYAN" with symbol "AR". It includes the following features:
+This smart contract, `MyToken`, is an ERC20 token named "Vicky" with symbol "VY". It includes the following features:
 
 - **Minting**: Only the contract owner can mint new tokens.
 - **Burning**: Any token holder can burn their own tokens.
