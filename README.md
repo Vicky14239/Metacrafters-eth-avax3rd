@@ -5,7 +5,7 @@ Customtoken is a simple ERC20 token implemented in Solidity. It includes basic f
 
 ## Overview
 
-This smart contract, `CustomToken`, is an ERC20 token named "CUSTOM" with symbol "CSt". It includes the following features:
+This smart contract, `CustomToken`, is an ERC20 token named "CUSTOM" with symbol "CST". It includes the following features:
 
 - **Minting**: Only the contract admin can mint new tokens.
 - **Burning**: Any token holder can burn their own tokens.
