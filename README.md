@@ -1,7 +1,7 @@
 # Metacrafters_eth+avax_3rd
-# Mytoken Smart Contract
+# myToken Smart Contract
 
-MyToken is a simple ERC20 token implemented in Solidity. It includes basic functionalities such as minting, burning, and transfer, with ownership control.
+mytoken is a simple ERC20 token implemented in Solidity. It includes basic functionalities such as minting, burning, and transfer, with ownership control.
 
 ## Overview
 
